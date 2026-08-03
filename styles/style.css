@@ -630,7 +630,7 @@
 .place-txt h2 {
   font-family: var(--font-titulos);
   font-size: 1.3rem;
-  color: var(--rose);
+  color: var(--rose-main);
   margin: 0;
 }
 
@@ -981,5 +981,5 @@ footer a:hover {
 }
 
 .palabras b {
-  color: var(--rose);
+  color: var(--rose-main);
 }
